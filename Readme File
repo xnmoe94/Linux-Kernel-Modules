@@ -1,0 +1,21 @@
+Computer ScienceICS 462 
+Operating Systems 
+Spring 2020
+
+ Programming Assignment #1
+
+Linux Kernel Modules In this project, you will learn how to create a kernel module and load it into theLinux kernel. 
+The project can be completed using the Linux virtual machinethat is available in Materials →Content →Resources. 
+Although you may use an editor to write theseC programs, you will have to use the terminal application to compile theprograms, 
+and you will have to enter commands on the command line tomanage the modules in the kernel.
+
+Part I –Creating Kernel Modules
+
+The First part of this project involves following a series of steps for creating andinserting a module into the Linux kernel
+
+
+
+
+
+
+
